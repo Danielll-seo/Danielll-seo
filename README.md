@@ -31,4 +31,4 @@
    <h1>💌 Contact me 🤙</h1>
 <div/>
 <a href="https://www.instagram.com/daniel_sxxnt/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=ffffff&link=https://www.instagram.com/daniel_sxxnt/"/></a>
-<a href="shj1103s@outlook.kr" target="blank"><img src="https://img.shields.io/badge/microsoftoutlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=shj1103s@outlook.kr"/></a>
+<a href="mailto:shj1103s@outlook.kr" target="blank"><img src="https://img.shields.io/badge/microsoftoutlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=shj1103s@outlook.kr"/></a>
