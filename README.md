@@ -1,4 +1,6 @@
-## ✨ Hi there! 👋
+<div align="center">
+   <h1>✨ Hi there! 👋</h1>
+<div/>
 <div align="center">
    <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Daniel's%20Graffiti&fontColor=ECE6CC&fontSize=90&fontAlignY=45&desc=Welcome%20to%20my%20small%20blog!%20🥵✨🏡&descAlign=68.6&descAlignY=60.5&animation=fadeIn" />
 </div>
@@ -25,4 +27,8 @@
   [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=walterdaniel-sudo&theme=radical)](https://github.com/walterdaniel-sudo/github-readme-stats)
 </div>
 
-## 💌 Contact me 🤙
+<div align="center">
+   <h1>💌 Contact me 🤙</h1>
+<div/>
+<a href="https://www.instagram.com/daniel_sxxnt/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=ffffff&link=https://www.instagram.com/daniel_sxxnt/"/></a>
+<a href="shj1103s@outlook.kr" target="blank"><img src="https://img.shields.io/badge/microsoftoutlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=shj1103s@outlook.kr"/></a>
