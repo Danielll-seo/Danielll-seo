@@ -3,7 +3,12 @@
 <div/>
 
 <div align="center">
+  <h4>My name is Daniel seo, a student from South korea🇰🇷 who majoring in Computer science & engineering.</h4>
   
+  [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=walterdaniel-sudo&theme=radical)](https://github.com/walterdaniel-sudo/github-readme-stats)
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/css3-20232a.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -17,15 +22,9 @@
 </div>
 
 <div align="center">
-  <h4>My name is Daniel seo, a student from South korea🇰🇷 who majoring in Computer science & engineering.</h4>
-  
-  [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=walterdaniel-sudo&theme=radical)](https://github.com/walterdaniel-sudo/github-readme-stats)
-</div>
-
-<div align="center">
    <h1>💌 Contact me 🤙</h1>
 <div/>
-<a href="https://www.instagram.com/daniel_sxxnt/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=ffffff&link=https://www.instagram.com/daniel_sxxnt/"/></a>
+<a href="https://www.instagram.com/daniel_sxxnt_/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=ffffff&link=https://www.instagram.com/daniel_sxxnt/"/></a>
 <a href="mailto:shj1103s@outlook.kr" target="blank"><img src="https://img.shields.io/badge/microsoftoutlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=shj1103s@outlook.kr"/></a>
    
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwalterdaniel-sudo&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
