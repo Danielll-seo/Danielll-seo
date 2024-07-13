@@ -28,3 +28,5 @@
 <a href="mailto:shj1103s@outlook.kr" target="blank"><img src="https://img.shields.io/badge/microsoftoutlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=shj1103s@outlook.kr"/></a>
    
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwalterdaniel-sudo&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<a href="[https://r1.community.samsung.com/t5/image/serverpage/image-id/8134397iA49919B76C19A636/image-size/large?v=v2&px=999](https://r1.community.samsung.com/t5/%EC%9B%A8%EC%96%B4%EB%9F%AC%EB%B8%94-%EC%9B%8C%EC%B9%98-%EB%B2%84%EC%A6%88/%EC%A0%84%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C-%EC%97%B4%EA%B4%91%ED%95%98%EB%8A%94-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%98/td-p/26586653)"><img src="https://r1.community.samsung.com/t5/image/serverpage/image-id/8134397iA49919B76C19A636/image-size/large?v=v2&px=999"></a>
