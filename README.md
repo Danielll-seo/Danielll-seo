@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Seo hui je.
 
-🎓 Sophomore at Hoseo University
+🎓 Sophomore at Hoseo University 🇰🇷
 💻 Computer Engineering Student
 
 ---
