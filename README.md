@@ -43,7 +43,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielll-seo\&show_icons=true\&theme=tokyonight)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abc123)
 
 ---
 
