@@ -41,12 +41,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abc123)
-
----
-
 ## 🎯 Goal
 
 > Build secure and useful systems with AI and backend technologies.
