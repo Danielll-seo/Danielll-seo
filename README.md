@@ -9,8 +9,9 @@
 
 * Interested in Backend Development & AI Projects
 * Learning Web Security and Web Hacking
-* Enjoy building useful software and exploring new technologies
-* Sometimes lazy, but passionate about coding 😎
+* Enjoy building shitty software and exploring Stackoverflow&Reddit.
+* Sometimes lazy, but !passionate about coding 😎
+* 아직은 Hello World가 제일 안정적임 샤@갈
 
 ---
 
@@ -18,29 +19,30 @@
 
 ### Languages
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-### Backend
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+### ?
 
-### AI & Security
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
 
 ---
 
 ## 📚 Currently Learning
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge\&logo=hackthebox\&logoColor=green)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+> "Trust me bro, the code worked yesterday."
 
 ---
 
 ## 🎯 Goal
 
-> Build secure and useful systems with AI and backend technologies.
+미래의 소프트웨어 개발자를 꿈꾸는 컴공생입니다.
+
+관심 분야:
+- 프로그램 개발
+- 앱 개발
+- 시스템 프로그래밍
+- 안 될 코드 붙잡고 새벽까지 디버깅하기
