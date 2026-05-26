@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Seo hui je.
 
 🎓 Sophomore at Hoseo University
 💻 Computer Engineering Student
