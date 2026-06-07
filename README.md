@@ -1,6 +1,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on [Airbnb_clone](https://github.com/Danielll-seo/Airbnb_clone)<br><br>- 🌱 I’m currently learning **C, Java, Python, Framework, Markdown**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Danielll-seo](https://github.com/Danielll-seo)<br><br>- 💬 Ask me about **Python, Django**<br><br>- 📫 How to reach me **shj1103s@naver.com**<br><br>- ⚡ Fun fact **Aspiring developer, lifelong learner, and occasional bug creator. Currently turning countless "Why doesn't this work?" moments into "Aha!" moments.**
 
+![My Music](https://sound-badge.vercel.app/api/card.svg?url=https://www.youtube.com/watch?v=Q3Bp1QVVieM&list=RDQ3Bp1QVVieM&start_radio=1&theme=stream)</br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xhj_2oo3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shj1103s@naver.com) 
