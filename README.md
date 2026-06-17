@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on [Airbnb_clone](https://github.com/Danielll-seo/Airbnb_clone)<br><br>- 🌱 I’m currently learning **C, Java, Python, Framework, Markdown**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Danielll-seo](https://github.com/Danielll-seo)<br><br>- 💬 Ask me about **Python, Django**<br><br>- 📫 How to reach me **shj1103s@naver.com**<br><br>- ⚡ Fun fact **Aspiring developer, lifelong learner, and occasional bug creator. Currently turning countless "Why doesn't this work?" moments into "Aha!" moments.**
 
-[![SoundBadge](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqNIpG4m87ko%26list%3DRDqNIpG4m87ko%26start_radio%3D1&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiU7oF4OXZSE%26list%3DRDiU7oF4OXZSE%26start_radio%3D1&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-DlMoJ2V6uk%26list%3DRD-DlMoJ2V6uk%26start_radio%3D1&theme=stream&variant=red&label=Music+for+today)](https://www.youtube.com/watch?v=qNIpG4m87ko&list=RDqNIpG4m87ko&start_radio=1)
+[![SoundBadge](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgcgKUcJKxIs%26list%3DRDgcgKUcJKxIs%26start_radio%3D1&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVm3tf65-8d4%26list%3DRDVm3tf65-8d4%26start_radio%3D1&theme=stream)](https://www.youtube.com/watch?v=gcgKUcJKxIs&list=RDgcgKUcJKxIs&start_radio=1)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xhj_2oo3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shj1103s@naver.com) 
