@@ -8,8 +8,8 @@
 
 ![About](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=About%20Me&fontSize=22&fontColor=fff)
 
--Currently learning software development and exploring new technologies.
--Interested in web and mobile app development.
+-Currently learning software development and exploring new technologies.<br>
+-Interested in web and mobile app development.<br>
 -Aiming to become a developer while keeping my options open for various tech fields.
 
 - 🏢 Working at **Hoseo university** in **Cheonan, South korea**
