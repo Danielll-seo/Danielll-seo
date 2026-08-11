@@ -12,7 +12,7 @@
 -Interested in web and mobile app development.<br>
 -Aiming to become a developer while keeping my options open for various tech fields.
 
-- 🏢 Working at **Hoseo university** in **Cheonan, South korea**
+- 🏢 I am a student at **Hoseo university** in **Cheonan, South korea**
 - 🌱 Currently learning **Python, Django, Flask, AWS**
 - 💬 Ask me about **Web development, Python, Flask**
 - ⚡ Currently turning every "Wait, what?" into an "Aha!" moment.
