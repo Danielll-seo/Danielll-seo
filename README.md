@@ -19,7 +19,7 @@
 
 ![Skills](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=Tech%20Stack&fontSize=22&fontColor=fff)
 
-![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white) ![Html](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html&logoColor=white) ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white) ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) ![flask](https://img.shields.io/badge/flask-333?style=for-the-badge&logo=flask&logoColor=white) ![rest framework](https://img.shields.io/badge/rest%20framework-333?style=for-the-badge&logo=restframework&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white) ![Html](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html&logoColor=white) ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white) ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) ![flask](https://img.shields.io/badge/flask-333?style=for-the-badge&logo=flask&logoColor=white) ![rest framework](https://img.shields.io/badge/rest%20framework-333?style=for-the-badge&logo=restframework&logoColor=white) ![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ![Stats](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=GitHub%20Stats&fontSize=22&fontColor=fff)
 
