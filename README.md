@@ -25,7 +25,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Danielll-seo&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SIMON1103-sudo&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
